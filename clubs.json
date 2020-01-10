@@ -1,5 +1,5 @@
 [
-  {
+{
     "ClubID": 100001,
     "Club Name": "AC Chess",
     "Main Advisor - Teacher": "Daniel Hart",
@@ -28,8 +28,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100002,
     "Club Name": "Academic Center Science Bowl Team",
     "Main Advisor - Teacher": "Mr. Peterson",
@@ -58,8 +58,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100003,
     "Club Name": "Aerospace Club",
     "Main Advisor - Teacher": "Andrew Peterson",
@@ -88,8 +88,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100004,
     "Club Name": "AGE",
     "Main Advisor - Teacher": "Tavolacci",
@@ -118,8 +118,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100005,
     "Club Name": "Amnesty International Club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -148,8 +148,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100006,
     "Club Name": "Animal Rescue Club",
     "Main Advisor - Teacher": "Todd Katz",
@@ -178,8 +178,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100007,
     "Club Name": "App Inventor Club",
     "Main Advisor - Teacher": "Andrew Mauer-Oats",
@@ -208,8 +208,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100008,
     "Club Name": "Arab Club",
     "Main Advisor - Teacher": "James Cole",
@@ -238,8 +238,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100009,
     "Club Name": "Archery Club",
     "Main Advisor - Teacher": "Anne-Michele Boyle",
@@ -268,8 +268,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Athletic"
-  },
-  {
+
+},{
     "ClubID": 100010,
     "Club Name": "Art Inc.",
     "Main Advisor - Teacher": "Janani Nathan",
@@ -298,8 +298,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100011,
     "Club Name": "Asian American Club",
     "Main Advisor - Teacher": "Rayshawn Nowlin",
@@ -328,8 +328,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100012,
     "Club Name": "ASL Club",
     "Main Advisor - Teacher": "Bret Roberts",
@@ -358,8 +358,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100013,
     "Club Name": "Astrology Club",
     "Main Advisor - Teacher": "Nowlin",
@@ -388,8 +388,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100014,
     "Club Name": "Best Buddies",
     "Main Advisor - Teacher": "Jaime Ropski",
@@ -418,8 +418,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100015,
     "Club Name": "Board Game Club",
     "Main Advisor - Teacher": "Ryan Kruidenier",
@@ -448,8 +448,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100016,
     "Club Name": "BPA (Business Professionals of America)",
     "Main Advisor - Teacher": "Ms. Uhl-Alba",
@@ -478,8 +478,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100017,
     "Club Name": "BPA Middle School Level",
     "Main Advisor - Teacher": "Ms. Uhl-Alba",
@@ -508,8 +508,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100018,
     "Club Name": "Bridge Club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -538,8 +538,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100019,
     "Club Name": "BuildOn",
     "Main Advisor - Teacher": "Karen Trine",
@@ -568,8 +568,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100020,
     "Club Name": "BUJO Club",
     "Main Advisor - Teacher": "Tavolacci",
@@ -598,8 +598,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100021,
     "Club Name": "Card Game Club",
     "Main Advisor - Teacher": "Andrew Peterson",
@@ -628,8 +628,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100022,
     "Club Name": "Ceramics Club",
     "Main Advisor - Teacher": "Rayshawn Nowlin",
@@ -658,8 +658,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100023,
     "Club Name": "Certamen",
     "Main Advisor - Teacher": "Sarah O'Connor",
@@ -688,8 +688,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100024,
     "Club Name": "Change Against Climate Change",
     "Main Advisor - Teacher": "Todd Katz",
@@ -718,8 +718,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100025,
     "Club Name": "ChemClub",
     "Main Advisor - Teacher": "Kevin Kopack",
@@ -748,8 +748,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100026,
     "Club Name": "Chess Club",
     "Main Advisor - Teacher": "Paul Kash",
@@ -778,8 +778,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100027,
     "Club Name": "Chinese Club",
     "Main Advisor - Teacher": "Lusha O'Mara",
@@ -808,8 +808,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100028,
     "Club Name": "Chocolate Club",
     "Main Advisor - Teacher": "Kim Smith",
@@ -838,8 +838,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100029,
     "Club Name": "Coding Club",
     "Main Advisor - Teacher": "Andrew Mauer-Oats",
@@ -868,8 +868,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100030,
     "Club Name": "Coffee Shop",
     "Main Advisor - Teacher": "Kevin Waller",
@@ -898,8 +898,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100031,
     "Club Name": "College Bound",
     "Main Advisor - Teacher": "Kayley Hennessy",
@@ -928,8 +928,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100032,
     "Club Name": "College Readiness Club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -958,8 +958,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100033,
     "Club Name": "Cooking Club",
     "Main Advisor - Teacher": "Ms. Rood",
@@ -988,8 +988,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100034,
     "Club Name": "Critical Films Studies",
     "Main Advisor - Teacher": "Jay Rehak",
@@ -1018,8 +1018,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Academic"
-  },
-  {
+
+},{
     "ClubID": 100035,
     "Club Name": "Crochet Club",
     "Main Advisor - Teacher": "Deb Keegan",
@@ -1048,8 +1048,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100036,
     "Club Name": "Dazzling Dolphettes",
     "Main Advisor - Teacher": "Yeyoung Ha",
@@ -1078,8 +1078,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100037,
     "Club Name": "Deaf Academic Bowl",
     "Main Advisor - Teacher": "Kelsey Cavanaugh",
@@ -1108,8 +1108,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100038,
     "Club Name": "Doctors Without Borders",
     "Main Advisor - Teacher": "Karen Trine",
@@ -1138,8 +1138,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100039,
     "Club Name": "eARTh club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -1168,8 +1168,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100040,
     "Club Name": "Eco Club",
     "Main Advisor - Teacher": "Katz",
@@ -1198,8 +1198,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100041,
     "Club Name": "Economics Club / Wise Guys",
     "Main Advisor - Teacher": "Kevin Waller",
@@ -1228,8 +1228,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100042,
     "Club Name": "Economics Team",
     "Main Advisor - Teacher": "Kevin Waller",
@@ -1258,8 +1258,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100043,
     "Club Name": "Environmental Outreach",
     "Main Advisor - Teacher": "Ms. Smith",
@@ -1288,8 +1288,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100044,
     "Club Name": "Fair Trade Club",
     "Main Advisor - Teacher": "Anne-Michele Boyle",
@@ -1318,8 +1318,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100045,
     "Club Name": "Feministas",
     "Main Advisor - Teacher": "Janani Nathan",
@@ -1348,8 +1348,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100046,
     "Club Name": "Femmes of Rock",
     "Main Advisor - Teacher": "Mr Peek",
@@ -1378,8 +1378,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100047,
     "Club Name": "FIDM Fashion Club",
     "Main Advisor - Teacher": "Janani Nathan",
@@ -1408,8 +1408,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100048,
     "Club Name": "Filipino American Culture Club",
     "Main Advisor - Teacher": "Neil Tejano",
@@ -1438,8 +1438,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100049,
     "Club Name": "Filipino Club",
     "Main Advisor - Teacher": "Bridget Nelson",
@@ -1468,8 +1468,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100050,
     "Club Name": "Film Club",
     "Main Advisor - Teacher": "Florian Palucci",
@@ -1498,8 +1498,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100051,
     "Club Name": "Forward Thinking",
     "Main Advisor - Teacher": "Ms. Miller-Little",
@@ -1528,8 +1528,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100052,
     "Club Name": "French Club",
     "Main Advisor - Teacher": "Ms. Fetalino",
@@ -1558,8 +1558,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100053,
     "Club Name": "French National Honor Society",
     "Main Advisor - Teacher": "Ms. Fetalino",
@@ -1588,8 +1588,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100054,
     "Club Name": "Freshmen Mentors",
     "Main Advisor - Teacher": "Ms.Bottari",
@@ -1618,8 +1618,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100055,
     "Club Name": "Girl Talk",
     "Main Advisor - Teacher": "Rachel El-Amin",
@@ -1648,8 +1648,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100056,
     "Club Name": "Girl Up",
     "Main Advisor - Teacher": "Anne-Michele Boyle",
@@ -1678,8 +1678,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100057,
     "Club Name": "Girls Who Code",
     "Main Advisor - Teacher": "Stuart Abram",
@@ -1708,8 +1708,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100058,
     "Club Name": "Good Vibes",
     "Main Advisor - Teacher": "Lisa Wax",
@@ -1738,8 +1738,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100059,
     "Club Name": "Guys and Dolls Dance Company",
     "Main Advisor - Teacher": "Jeanette Gordon",
@@ -1768,8 +1768,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Athletic"
-  },
-  {
+
+},{
     "ClubID": 100060,
     "Club Name": "Habitat for Humanity",
     "Main Advisor - Teacher": "Katie Sharp",
@@ -1798,8 +1798,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100061,
     "Club Name": "Hack Club",
     "Main Advisor - Teacher": "Wenhua Deng",
@@ -1828,8 +1828,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100062,
     "Club Name": "Hands for Hospitals",
     "Main Advisor - Teacher": "Ms. Garcia",
@@ -1858,8 +1858,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Academic"
-  },
-  {
+
+},{
     "ClubID": 100063,
     "Club Name": "HOME EC",
     "Main Advisor - Teacher": "Mr. Fanning",
@@ -1888,8 +1888,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100064,
     "Club Name": "HOSA - Future Health Professionals",
     "Main Advisor - Teacher": "Ms. Garcia",
@@ -1918,8 +1918,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100065,
     "Club Name": "Hungry and Homeless WY",
     "Main Advisor - Teacher": "Mr. Nowlin",
@@ -1948,8 +1948,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100066,
     "Club Name": "Idol Club",
     "Main Advisor - Teacher": "Rachel El-Amin",
@@ -1978,8 +1978,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100067,
     "Club Name": "Investor Club",
     "Main Advisor - Teacher": "Carol Uhl-Alba",
@@ -2008,8 +2008,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100068,
     "Club Name": "Japan Bowl Club",
     "Main Advisor - Teacher": "Risa Turner",
@@ -2038,8 +2038,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100069,
     "Club Name": "Japanese Club",
     "Main Advisor - Teacher": "Risa Turner",
@@ -2068,8 +2068,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100070,
     "Club Name": "Karaoke Club",
     "Main Advisor - Teacher": "Mrs. Smith",
@@ -2098,8 +2098,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100071,
     "Club Name": "Key Club",
     "Main Advisor - Teacher": "Mrs. Smith",
@@ -2128,8 +2128,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100072,
     "Club Name": "Kids Resource Network",
     "Main Advisor - Teacher": "Ms. Smith",
@@ -2158,8 +2158,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100073,
     "Club Name": "Kiva",
     "Main Advisor - Teacher": "Timothy Elliott",
@@ -2188,8 +2188,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100074,
     "Club Name": "Latinos Unidos",
     "Main Advisor - Teacher": "Lorena Gomez",
@@ -2218,8 +2218,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100075,
     "Club Name": "Lift Mothers Lift the World",
     "Main Advisor - Teacher": "Stuart Abram",
@@ -2248,8 +2248,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100076,
     "Club Name": "Mangaka Club",
     "Main Advisor - Teacher": "Nowlin",
@@ -2278,8 +2278,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100077,
     "Club Name": "March of Dimes Club",
     "Main Advisor - Teacher": "James Cole",
@@ -2308,8 +2308,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100078,
     "Club Name": "Math Team (Academic Center)",
     "Main Advisor - Teacher": "Julienne Au",
@@ -2338,8 +2338,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100079,
     "Club Name": "Math Team (High School)",
     "Main Advisor - Teacher": "Julienne Au",
@@ -2368,8 +2368,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100080,
     "Club Name": "Medi Club",
     "Main Advisor - Teacher": "Ms. Smith",
@@ -2398,8 +2398,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100081,
     "Club Name": "Minecraft Club",
     "Main Advisor - Teacher": "Alison Ryder",
@@ -2428,8 +2428,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100082,
     "Club Name": "Mock Trial",
     "Main Advisor - Teacher": "Claudia Narvaez",
@@ -2458,8 +2458,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100083,
     "Club Name": "Music Production Club",
     "Main Advisor - Teacher": "Michael Mascari",
@@ -2488,8 +2488,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100084,
     "Club Name": "NAMI Care Club",
     "Main Advisor - Teacher": "Bridget Nelson",
@@ -2518,8 +2518,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100085,
     "Club Name": "National Honor Society",
     "Main Advisor - Teacher": "Mr. Grigsby",
@@ -2548,8 +2548,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100086,
     "Club Name": "National Junior Honors Society",
     "Main Advisor - Teacher": "Mr. VonMoser",
@@ -2578,8 +2578,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100087,
     "Club Name": "Nigerian American Club",
     "Main Advisor - Teacher": "Stuart Abram",
@@ -2608,8 +2608,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100088,
     "Club Name": "Nursing Club",
     "Main Advisor - Teacher": "Ryan Kruidenier",
@@ -2638,8 +2638,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100089,
     "Club Name": "Origami Club",
     "Main Advisor - Teacher": "Risa Turner",
@@ -2668,8 +2668,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100090,
     "Club Name": "Paint it Forward",
     "Main Advisor - Teacher": "Janani Nathan",
@@ -2698,8 +2698,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100091,
     "Club Name": "Pastry Club",
     "Main Advisor - Teacher": "Jennifer Hey-Lewis",
@@ -2728,8 +2728,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100092,
     "Club Name": "Period Products for People",
     "Main Advisor - Teacher": "Natalie Leki-Albano",
@@ -2758,8 +2758,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100093,
     "Club Name": "Period.",
     "Main Advisor - Teacher": "Mrs. Miller-Little",
@@ -2788,8 +2788,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100094,
     "Club Name": "Photography Club",
     "Main Advisor - Teacher": "Benjamin John Gucciardi",
@@ -2818,8 +2818,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100095,
     "Club Name": "Ping Pong",
     "Main Advisor - Teacher": "Karen Trine",
@@ -2848,8 +2848,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100096,
     "Club Name": "Podcast Club",
     "Main Advisor - Teacher": "Natalie Leki-Albano",
@@ -2878,8 +2878,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100097,
     "Club Name": "Poetry Slam Team",
     "Main Advisor - Teacher": "Ms. Bonner",
@@ -2908,8 +2908,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100098,
     "Club Name": "Polish Club",
     "Main Advisor - Teacher": "Mr. Pascowicz",
@@ -2938,8 +2938,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100099,
     "Club Name": "Politics Club",
     "Main Advisor - Teacher": "Sheila Lent",
@@ -2968,8 +2968,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Academic"
-  },
-  {
+
+},{
     "ClubID": 100100,
     "Club Name": "Powerlifting",
     "Main Advisor - Teacher": "Hinrichs",
@@ -2998,8 +2998,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Athletic"
-  },
-  {
+
+},{
     "ClubID": 100101,
     "Club Name": "Pride Club",
     "Main Advisor - Teacher": "Florian Palucci",
@@ -3028,8 +3028,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100102,
     "Club Name": "Project Blanket",
     "Main Advisor - Teacher": "Ms. Smith",
@@ -3058,8 +3058,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100103,
     "Club Name": "Public Speaking Club",
     "Main Advisor - Teacher": "Dane Campbell",
@@ -3088,8 +3088,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100104,
     "Club Name": "Random Act of Flowers",
     "Main Advisor - Teacher": "Ms. Wax",
@@ -3118,8 +3118,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100105,
     "Club Name": "Recycle and Revive",
     "Main Advisor - Teacher": "Todd Katz",
@@ -3148,8 +3148,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100106,
     "Club Name": "Redeemed",
     "Main Advisor - Teacher": "Gayles",
@@ -3178,8 +3178,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100107,
     "Club Name": "Robotics Team",
     "Main Advisor - Teacher": "Andrew Mauer-Oats",
@@ -3208,8 +3208,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100108,
     "Club Name": "Scholastic Bowl Team",
     "Main Advisor - Teacher": "G.D. Pritchett",
@@ -3238,8 +3238,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100109,
     "Club Name": "School Beautification Club",
     "Main Advisor - Teacher": "Janani Nathan",
@@ -3268,8 +3268,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100110,
     "Club Name": "Science Bowl",
     "Main Advisor - Teacher": "Mr. Peterson",
@@ -3298,8 +3298,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100111,
     "Club Name": "Science Olympiad",
     "Main Advisor - Teacher": "Anna Gallardo",
@@ -3328,8 +3328,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100112,
     "Club Name": "Sisters",
     "Main Advisor - Teacher": "Kayley Hennessy",
@@ -3358,8 +3358,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100113,
     "Club Name": "Skateboard Club",
     "Main Advisor - Teacher": "Mario Viramontes",
@@ -3388,8 +3388,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Athletic"
-  },
-  {
+
+},{
     "ClubID": 100114,
     "Club Name": "Smiles Club",
     "Main Advisor - Teacher": "Mrs. Smith",
@@ -3418,8 +3418,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100115,
     "Club Name": "Social Awareness Club",
     "Main Advisor - Teacher": "Ms. Tellez",
@@ -3448,8 +3448,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100116,
     "Club Name": "Society of Hispanic Professional Engineers",
     "Main Advisor - Teacher": "Andrew Mauer-Oats",
@@ -3478,8 +3478,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100117,
     "Club Name": "Spanish Honor Society",
     "Main Advisor - Teacher": "Alva Tellez",
@@ -3508,8 +3508,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100118,
     "Club Name": "Squad of Intramural Sports",
     "Main Advisor - Teacher": "Castle",
@@ -3538,8 +3538,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Athletic; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100119,
     "Club Name": "STAR (Students Together Assisting Refugees)",
     "Main Advisor - Teacher": "Anne-Michele Boyle",
@@ -3568,8 +3568,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100120,
     "Club Name": "Students for Equity",
     "Main Advisor - Teacher": "El-Amin",
@@ -3598,8 +3598,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100121,
     "Club Name": "Study Abroad Club",
     "Main Advisor - Teacher": "Risa Turner",
@@ -3628,8 +3628,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100122,
     "Club Name": "SWAP (Students Working Against Prisons)",
     "Main Advisor - Teacher": "Ian McCarthy",
@@ -3658,8 +3658,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Cultural; Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100123,
     "Club Name": "Society of Women Engineers Club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -3688,8 +3688,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100124,
     "Club Name": "National Honor Society for Dance Arts",
     "Main Advisor - Teacher": "Gordon",
@@ -3718,8 +3718,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100125,
     "Club Name": "Young Company",
     "Main Advisor - Teacher": "Winkler",
@@ -3748,8 +3748,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100126,
     "Club Name": "Young Voices",
     "Main Advisor - Teacher": "Grace Jeong",
@@ -3778,8 +3778,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100127,
     "Club Name": "Think Tank",
     "Main Advisor - Teacher": "Jay Rehak",
@@ -3808,8 +3808,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service; Academic"
-  },
-  {
+
+},{
     "ClubID": 100128,
     "Club Name": "Thrift Flip Club",
     "Main Advisor - Teacher": "Mr. Nolan",
@@ -3838,8 +3838,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100129,
     "Club Name": "Tri-M Music Honor Society",
     "Main Advisor - Teacher": "Mr. Mascari",
@@ -3868,8 +3868,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100130,
     "Club Name": "UnderSTANDing Together Club",
     "Main Advisor - Teacher": "Ian McCarthy",
@@ -3898,8 +3898,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Community/Culture"
-  },
-  {
+
+},{
     "ClubID": 100131,
     "Club Name": "United Nations Children's Emergency Fund Club",
     "Main Advisor - Teacher": "Karen Trine",
@@ -3928,8 +3928,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100132,
     "Club Name": "Video Game Club",
     "Main Advisor - Teacher": "Stuart Abram",
@@ -3958,8 +3958,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100133,
     "Club Name": "Whitney Young Chemsitry Olympiad Team",
     "Main Advisor - Teacher": "Ms. Deng",
@@ -3988,8 +3988,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100134,
     "Club Name": "Whitney Young Model United Nations",
     "Main Advisor - Teacher": "Neil Tejano",
@@ -4018,8 +4018,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100135,
     "Club Name": "Women in STEM Club",
     "Main Advisor - Teacher": "Alison Ryder",
@@ -4048,8 +4048,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Culture"
-  },
-  {
+
+},{
     "ClubID": 100136,
     "Club Name": "Writers Club",
     "Main Advisor - Teacher": "Brigid Pasulka",
@@ -4078,8 +4078,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun; Academic; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100137,
     "Club Name": "WY Badminton",
     "Main Advisor - Teacher": "Yan Chan",
@@ -4108,8 +4108,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Athletic; Lifetime/Fun"
-  },
-  {
+
+},{
     "ClubID": 100138,
     "Club Name": "WY Drama Club",
     "Main Advisor - Teacher": "Dane Campbell",
@@ -4138,8 +4138,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun; Art/Performance"
-  },
-  {
+
+},{
     "ClubID": 100139,
     "Club Name": "WY Food Pantry",
     "Main Advisor - Teacher": "Mario Viramontes",
@@ -4168,8 +4168,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Civic/Service"
-  },
-  {
+
+},{
     "ClubID": 100140,
     "Club Name": "WY Reading Club",
     "Main Advisor - Teacher": "Bonner",
@@ -4198,8 +4198,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100141,
     "Club Name": "Yearbook",
     "Main Advisor - Teacher": "Tavolacci",
@@ -4228,8 +4228,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Lifetime/Fun; Art/Performance; Community/Cultural"
-  },
-  {
+
+},{
     "ClubID": 100142,
     "Club Name": "Young Democratic Socialists of America",
     "Main Advisor - Teacher": "Stuart Abram",
@@ -4258,8 +4258,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic; Community/Culture"
-  },
-  {
+
+},{
     "ClubID": 100143,
     "Club Name": "Young Doctors League",
     "Main Advisor - Teacher": "Karen Trine",
@@ -4288,8 +4288,8 @@
     "Club Leader Contact 6": "",
     "Club Leader Contact 7": "",
     "Subject": "Academic"
-  },
-  {
+
+},{
     "ClubID": 100144,
     "Club Name": "Zine & Comics Club",
     "Main Advisor - Teacher": "Florian Palucci",
@@ -4320,3 +4320,4 @@
     "Subject": "Art/Performance"
   }
 ]
+
